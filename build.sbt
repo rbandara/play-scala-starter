@@ -1,6 +1,6 @@
 import play.sbt.PlayImport._
 
-name := """fds-product-data"""
+name := "scala-rec-sys"
 
 version := "1.0-SNAPSHOT"
 
